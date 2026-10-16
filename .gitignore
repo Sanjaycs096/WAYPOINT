@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Production build artifacts
+dist/
+build/
+
+# Testing artifacts
+coverage/
+test-results/
+playwright-report/
+
+# Environment and sensitive files
+.env*
+*.log
+.DS_Store
+
+# IDE and AI Studio temporary caches
+.aistudio/
+.tempmediaStorage/
